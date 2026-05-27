@@ -24,6 +24,14 @@ An end-to-end data analytics and predictive modeling project designed to optimiz
 
 ---
 
+## 📊 Sample Insights
+Found highly profitable product sub-categories that were previously masked by low-performing regional baselines.
+
+Identified specific seasonal trends, allowing for optimized inventory management ahead of peak demand periods.
+
+## 🧑‍💻 Author
+Sakepuram Vamsi Data Analyst & Data Scientist GitHub Profile
+
 ## 📂 Project Structure
 ```text
 ├── Data/                   # Raw and cleaned datasets
@@ -31,10 +39,3 @@ An end-to-end data analytics and predictive modeling project designed to optimiz
 ├── Dashboards/             # Power BI files / Excel workbooks
 └── README.md               # Project documentation
 
-📊 Sample Insights
-Found highly profitable product sub-categories that were previously masked by low-performing regional baselines.
-
-Identified specific seasonal trends, allowing for optimized inventory management ahead of peak demand periods.
-
-🧑‍💻 Author
-Sakepuram Vamsi Data Analyst & Data Scientist GitHub Profile
